@@ -10,4 +10,4 @@
 刚拿驾照，新手上路，如有错误，恳请指正。
 
 # 学习资料
-file:///E:/python%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B/%E8%B5%84%E6%96%99/index.html 
+不会上传index.html 文件 有大神可以教一下吗
