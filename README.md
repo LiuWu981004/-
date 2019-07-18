@@ -10,4 +10,6 @@
 刚拿驾照，新手上路，如有错误，恳请指正。
 
 # 学习资料
-不会上传index.html 文件 有大神可以教一下吗
+百度网盘：链接：https://pan.baidu.com/s/1umil5ZNdlR7C8lO6J4lSpQ 
+提取码：0ygi 
+
